@@ -1,1 +1,3 @@
-tarea1: pendiente
+tarea1:done
+tarea 2:pendiene
+tarea 3: en progeso
